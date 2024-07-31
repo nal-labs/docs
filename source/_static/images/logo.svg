@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name=" 图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 3413.2 1367">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_未命名的渐变);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#_未命名的渐变_2);
+      }
+
+      .cls-3 {
+        fill: url(#_未命名的渐变_3);
+      }
+
+      .cls-4 {
+        fill: url(#_未命名的渐变_4);
+      }
+    </style>
+    <radialGradient id="_未命名的渐变" data-name="未命名的渐变" cx="1600" cy="1877.3" fx="1600" fy="1877.3" r="2237.9" gradientTransform="translate(0 0)" gradientUnits="userSpaceOnUse">
+      <stop offset=".3" stop-color="#1c2235"/>
+      <stop offset=".5" stop-color="#1c202f"/>
+      <stop offset=".7" stop-color="#2e2388"/>
+      <stop offset=".9" stop-color="#1c64af"/>
+      <stop offset="1" stop-color="#7fcbd7"/>
+    </radialGradient>
+    <radialGradient id="_未命名的渐变_2" data-name="未命名的渐变 2" cx="1600" cy="1877.3" fx="1600" fy="1877.3" r="2237.9" gradientTransform="translate(0 0)" gradientUnits="userSpaceOnUse">
+      <stop offset=".3" stop-color="#1c2235"/>
+      <stop offset=".5" stop-color="#1c202f"/>
+      <stop offset=".7" stop-color="#2e2388"/>
+      <stop offset=".9" stop-color="#1c64af"/>
+      <stop offset="1" stop-color="#7fcbd7"/>
+    </radialGradient>
+    <radialGradient id="_未命名的渐变_3" data-name="未命名的渐变 3" cx="1600" cy="1877.3" fx="1600" fy="1877.3" r="2237.9" gradientTransform="translate(0 0)" gradientUnits="userSpaceOnUse">
+      <stop offset=".3" stop-color="#1c2235"/>
+      <stop offset=".5" stop-color="#1c202f"/>
+      <stop offset=".7" stop-color="#2e2388"/>
+      <stop offset=".9" stop-color="#1c64af"/>
+      <stop offset="1" stop-color="#7fcbd7"/>
+    </radialGradient>
+    <radialGradient id="_未命名的渐变_4" data-name="未命名的渐变 4" cx="1600" cy="1877.3" fx="1600" fy="1877.3" r="2237.9" gradientTransform="translate(0 0)" gradientUnits="userSpaceOnUse">
+      <stop offset=".3" stop-color="#1c2235"/>
+      <stop offset=".5" stop-color="#1c202f"/>
+      <stop offset=".7" stop-color="#2e2388"/>
+      <stop offset=".9" stop-color="#1c64af"/>
+      <stop offset="1" stop-color="#7fcbd7"/>
+    </radialGradient>
+  </defs>
+  <path class="cls-1" d="M2876.2,1008.1V228.8c-50.6-50.6-79.4-79.4-130-130h-195v974.9h0c76,76.5,119,119.4,195,195.6h584.8v-260.7h-454.8v-.4h0Z"/>
+  <path class="cls-2" d="M894.2,274.5c44.4,44.4,69.4,69.4,114.2,114.2h178.1V98.8h-292.5v176.1-.4h.2Z"/>
+  <path class="cls-3" d="M579.3,98.4H212.2c-71.7,0-130,58.1-130,130v1039.5h325V477.2c0-28.8,35-43.5,55.2-23.1l399.6,397.7v415.7h325v-564.4h0L579.6,97.8l-.4.4v.2Z"/>
+  <path class="cls-4" d="M2291.4,98.4h-367.5l-607.5,605.1h0v564.4h325v-441.1l409.6-403.8h45.4v844.9h325V228.2c0-71.7-58.1-130-130-130h0v.2Z"/>
+</svg>
