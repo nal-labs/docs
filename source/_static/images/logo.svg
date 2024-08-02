@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="_图层_1" data-name=" 图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 3413.2 1367">
+<svg id="_layer_1" data-name=" layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 3413.2 1367">
   <defs>
     <style>
       .cls-1 {
-        fill: url(#_未命名的渐变);
+        fill: url(#_unamed_gradient);
       }
 
       .cls-1, .cls-2, .cls-3, .cls-4 {
@@ -11,39 +11,39 @@
       }
 
       .cls-2 {
-        fill: url(#_未命名的渐变_2);
+        fill: url(#_unamed_gradient_2);
       }
 
       .cls-3 {
-        fill: url(#_未命名的渐变_3);
+        fill: url(#_unamed_gradient_3);
       }
 
       .cls-4 {
-        fill: url(#_未命名的渐变_4);
+        fill: url(#_unamed_gradient_4);
       }
     </style>
-    <radialGradient id="_未命名的渐变" data-name="未命名的渐变" cx="1600" cy="1877.3" fx="1600" fy="1877.3" r="2237.9" gradientTransform="translate(0 0)" gradientUnits="userSpaceOnUse">
+    <radialGradient id="_unamed_gradient" data-name="unamed_gradient" cx="1600" cy="1877.3" fx="1600" fy="1877.3" r="2237.9" gradientTransform="translate(0 0)" gradientUnits="userSpaceOnUse">
       <stop offset=".3" stop-color="#1c2235"/>
       <stop offset=".5" stop-color="#1c202f"/>
       <stop offset=".7" stop-color="#2e2388"/>
       <stop offset=".9" stop-color="#1c64af"/>
       <stop offset="1" stop-color="#7fcbd7"/>
     </radialGradient>
-    <radialGradient id="_未命名的渐变_2" data-name="未命名的渐变 2" cx="1600" cy="1877.3" fx="1600" fy="1877.3" r="2237.9" gradientTransform="translate(0 0)" gradientUnits="userSpaceOnUse">
+    <radialGradient id="_unamed_gradient_2" data-name="unamed_gradient 2" cx="1600" cy="1877.3" fx="1600" fy="1877.3" r="2237.9" gradientTransform="translate(0 0)" gradientUnits="userSpaceOnUse">
       <stop offset=".3" stop-color="#1c2235"/>
       <stop offset=".5" stop-color="#1c202f"/>
       <stop offset=".7" stop-color="#2e2388"/>
       <stop offset=".9" stop-color="#1c64af"/>
       <stop offset="1" stop-color="#7fcbd7"/>
     </radialGradient>
-    <radialGradient id="_未命名的渐变_3" data-name="未命名的渐变 3" cx="1600" cy="1877.3" fx="1600" fy="1877.3" r="2237.9" gradientTransform="translate(0 0)" gradientUnits="userSpaceOnUse">
+    <radialGradient id="_unamed_gradient_3" data-name="unamed_gradient 3" cx="1600" cy="1877.3" fx="1600" fy="1877.3" r="2237.9" gradientTransform="translate(0 0)" gradientUnits="userSpaceOnUse">
       <stop offset=".3" stop-color="#1c2235"/>
       <stop offset=".5" stop-color="#1c202f"/>
       <stop offset=".7" stop-color="#2e2388"/>
       <stop offset=".9" stop-color="#1c64af"/>
       <stop offset="1" stop-color="#7fcbd7"/>
     </radialGradient>
-    <radialGradient id="_未命名的渐变_4" data-name="未命名的渐变 4" cx="1600" cy="1877.3" fx="1600" fy="1877.3" r="2237.9" gradientTransform="translate(0 0)" gradientUnits="userSpaceOnUse">
+    <radialGradient id="_unamed_gradient_4" data-name="unamed_gradient 4" cx="1600" cy="1877.3" fx="1600" fy="1877.3" r="2237.9" gradientTransform="translate(0 0)" gradientUnits="userSpaceOnUse">
       <stop offset=".3" stop-color="#1c2235"/>
       <stop offset=".5" stop-color="#1c202f"/>
       <stop offset=".7" stop-color="#2e2388"/>

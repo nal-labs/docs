@@ -29,7 +29,7 @@ To add Nal as a custom network to MetaMask:
 
 #### Adding Nal through Chainlist
 
-Nal is already registered on Chainlist. You can go to [Chainlist](https://chainlist.org/?search=Nal+Mainnet), click *connect wallet* to finish adding Nal.
+Nal is already registered on Chainlist. You can go to [Chainlist](https://chainlist.org/?search=Nal+Mainnet), click **Add to Metamask** on `Nal Mainnet` to finish adding Nal.
 
 ---
 
@@ -53,6 +53,7 @@ To add Nal Sepolia as a custom network to MetaMask:
     | Name | Value |
     | --- | --- |
     | Network Name | Nal Sepolia |
+    | Description | The public testnet for Nal |
     | RPC Endpoint | https://testnet-rpc.nal.network/ |
     | Chain ID | 328527624 |
     | Currency Symbol | ETH |
@@ -61,4 +62,4 @@ To add Nal Sepolia as a custom network to MetaMask:
 
 #### Adding Nal Sepolia through Chainlist
 
-Nal Sepolia is already registered on Chainlist. You can go to [Chainlist](https://chainlist.org/?search=Nal+Mainnet), click *connect wallet* to finish adding Nal Sepolia.
+Nal Sepolia is already registered on Chainlist. You can go to [Chainlist](https://chainlist.org/?search=Nal+Sepolia+Testnet), click the `Include Testnets` checkbox, then click **Add to Metamask** on `Nal Sepolia Testnet` to finish adding Nal Sepolia.
