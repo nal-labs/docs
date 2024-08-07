@@ -1,6 +1,6 @@
 # Overview
 
-Nal is a high-speed, low-cost, secure General L2 aims to support new assets circulation.
+Nal(Network of Adoption Liveness) is a high-speed, low-cost, secure General L2 aims to support new assets circulation.
 
 Nal has innovatively created a one-stop growth solution for ecosystem partners by redefining Layer2 functionalities into modular components.Ecosystem partners benefit from extremely low costs for issuing and trading new assets, choosing convenient and efficient protocols for universal asset circulation, and utilizing a comprehensive set of ToC operational growth tools.
 

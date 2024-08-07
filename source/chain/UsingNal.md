@@ -4,7 +4,7 @@
 
 Nal can be added as a custom network to any EVM-compatible wallet (i.e. [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)).
 
-### MetaMask[](https://docs.base.org/docs/using-base#metamask)
+### MetaMask
 
 #### Adding Nal manually
 
@@ -33,11 +33,11 @@ Nal is already registered on Chainlist. You can go to [Chainlist](https://chainl
 
 ---
 
-## Testnet[](https://docs.base.org/docs/using-base#testnet)
+## Testnet
 
 Nal Sepolia can be added as a custom network to any EVM-compatible wallet (i.e. [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)).
 
-### MetaMask[](https://docs.base.org/docs/using-base#metamask-1)
+### MetaMask
 
 #### Adding Nal Sepolia manually
 

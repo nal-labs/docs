@@ -13,8 +13,6 @@
 | Currency Symbol | ETH |
 | Block Explorer | https://scan.nal.network/ |
 
----
-
 ### Nal Testnet (Sepolia)
 
 | Name | Value |
@@ -29,6 +27,38 @@
 ------
 
 ## Nal Conracts
+
+### L1 Contract Addresses
+
+#### Ethereum Mainnet
+
+| Name | Address |
+| --- | --- |
+| AddressManager | 0x6776A4B794D035c3D39798345dB13874E699FD38 |
+| L1CrossDomainMessenger | 0xAE5801Fb54d62e221f330483147D0Ce4d6876b8E |
+| L1ERC721Bridge | 0x3cC6799565518EeF95a6e9E3859eb3e34Ed7515C |
+| L1StandardBridge | 0x8a471dF117E2fEA79DACE93cF5f6dd4217931Db7 |
+| L2OutputOracle | 0xaE25ea4Cc185585Fa6abf344F3354bf8207Cd7D1 |
+| OptimismMintableERC20Factory | 0x746B93Fcd0F853f04b32Bed2D343C374F1cCF388 |
+| OptimismPortal | 0x872902b91fB2aa95147fCDc346a567B7970DBe47 |
+| ProxyAdmin | 0xE261a3F9015ff1c05E227abBF6f34A181CD6242c |
+| SystemConfig | 0xD32FbeaC71164D71Aa62640231D022e285472D1E |
+| SuperchainConfig | 0x61Af6c005B500e61a66f993079807e82605f24c0 |
+
+#### Ethereum Testnet (Sepolia)
+
+| Name | Address |
+| --- | --- |
+| AddressManager | 0xd66A7cc01b02d7686626A38446d9c3B8B61755DB |
+| L1CrossDomainMessenger | 0xdc9c9Cdf84CD2867f8740EeA2737882f2404D040 |
+| L1ERC721Bridge | 0xc146DB35b051D77328fF316dF060F8553d8d8778 |
+| L1StandardBridge | 0xf76fEd96b34F80BdefDAC20c3163834703B2d536 |
+| L2OutputOracle | 0x31584aA9bBDcF32938a47B46579859C6a5a1FeF4 |
+| OptimismMintableERC20Factory | 0xC9CAC35F3E8C85Bc5a801277e11aEba81fEBa444 |
+| OptimismPortal | 0x24C83C822EADCC5C4A432aB00A030E338d3713a2 |
+| ProxyAdmin | 0x1C3e52EeDC6D85885e80e14db1Aa1c907A93980b |
+| SystemConfig | 0xEaC78ABfdE88bbaDC57F31d77334c0656129060E |
+| SuperchainConfig | 0x152a3C4843532EE323D953d4daeFEd1E39Cc8a62 |
 
 ### L2 Contract Addresses
 
@@ -83,38 +113,6 @@
 | EAS | 0x4200000000000000000000000000000000000021 |
 
 - *L2 contract addresses are the same on both mainnet and testnet.*
-
-### L1 Contract Addresses
-
-#### Ethereum Mainnet
-
-| Name | Address |
-| --- | --- |
-| AddressManager | 0x6776A4B794D035c3D39798345dB13874E699FD38 |
-| L1CrossDomainMessenger | 0xAE5801Fb54d62e221f330483147D0Ce4d6876b8E |
-| L1ERC721Bridge | 0x3cC6799565518EeF95a6e9E3859eb3e34Ed7515C |
-| L1StandardBridge | 0x8a471dF117E2fEA79DACE93cF5f6dd4217931Db7 |
-| L2OutputOracle | 0xaE25ea4Cc185585Fa6abf344F3354bf8207Cd7D1 |
-| OptimismMintableERC20Factory | 0x746B93Fcd0F853f04b32Bed2D343C374F1cCF388 |
-| OptimismPortal | 0x872902b91fB2aa95147fCDc346a567B7970DBe47 |
-| ProxyAdmin | 0xE261a3F9015ff1c05E227abBF6f34A181CD6242c |
-| SystemConfig | 0xD32FbeaC71164D71Aa62640231D022e285472D1E |
-| SuperchainConfig | 0x61Af6c005B500e61a66f993079807e82605f24c0 |
-
-#### Ethereum Testnet (Sepolia)
-
-| Name | Address |
-| --- | --- |
-| AddressManager | 0xd66A7cc01b02d7686626A38446d9c3B8B61755DB |
-| L1CrossDomainMessenger | 0xdc9c9Cdf84CD2867f8740EeA2737882f2404D040 |
-| L1ERC721Bridge | 0xc146DB35b051D77328fF316dF060F8553d8d8778 |
-| L1StandardBridge | 0xf76fEd96b34F80BdefDAC20c3163834703B2d536 |
-| L2OutputOracle | 0x31584aA9bBDcF32938a47B46579859C6a5a1FeF4 |
-| OptimismMintableERC20Factory | 0xC9CAC35F3E8C85Bc5a801277e11aEba81fEBa444 |
-| OptimismPortal | 0x24C83C822EADCC5C4A432aB00A030E338d3713a2 |
-| ProxyAdmin | 0x1C3e52EeDC6D85885e80e14db1Aa1c907A93980b |
-| SystemConfig | 0xEaC78ABfdE88bbaDC57F31d77334c0656129060E |
-| SuperchainConfig | 0x152a3C4843532EE323D953d4daeFEd1E39Cc8a62 |
 
 ### Nal Admin Addresses
 

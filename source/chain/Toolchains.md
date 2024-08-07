@@ -32,7 +32,7 @@ forge verify-contract ... --chain-id 328527
 
 ```
 
-#### Testnet[](https://docs.base.org/docs/tools/foundry#testnet)
+#### Testnet
 
 ##### Deploying a smart contract
 
