@@ -60,8 +60,8 @@ Various ERC-20 tokens originally deployed to Ethereum also have corresponding "b
 | Name | Symbol | L1 Token | L2 Token |
 | --- | --- | --- | --- |
 | Ether | ETH | [0x0000000000000000000000000000000000000000](https://sepolia.etherscan.io/address/0x0000000000000000000000000000000000000000) | [0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000](https://testnet-scan.nal.network/address/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000) |
-| Tether USDT | USDT | [0x84E7a252AD39Cc9BFcDcB16208c3e912a313be97](https://sepolia.etherscan.io/token/0x84E7a252AD39Cc9BFcDcB16208c3e912a313be97) | [0xe4f926348d533d2b20857bd4d96ba92a4ceb9c15](https://testnet-scan.nal.network/token/0xe4f926348d533d2b20857bd4d96ba92a4ceb9c15) |
-| USDC | USDC | [0x3b423b8f6d28601bef9352f4c1cc9c1fa72e6450](https://sepolia.etherscan.io/token/0x3b423b8f6d28601bef9352f4c1cc9c1fa72e6450) | [0xe3b1a545130163ff977e06bcbae9bc55ec7ddaf6](https://testnet-scan.nal.network/token/0xe3b1a545130163ff977e06bcbae9bc55ec7ddaf6) |
+| NAL-TEST USDT | USDT | [0x84E7a252AD39Cc9BFcDcB16208c3e912a313be97](https://sepolia.etherscan.io/token/0x84E7a252AD39Cc9BFcDcB16208c3e912a313be97) | [0xe4f926348d533d2b20857bd4d96ba92a4ceb9c15](https://testnet-scan.nal.network/token/0xe4f926348d533d2b20857bd4d96ba92a4ceb9c15) |
+| NAL-TEST USDC | USDC | [0x3b423b8f6d28601bef9352f4c1cc9c1fa72e6450](https://sepolia.etherscan.io/token/0x3b423b8f6d28601bef9352f4c1cc9c1fa72e6450) | [0xe3b1a545130163ff977e06bcbae9bc55ec7ddaf6](https://testnet-scan.nal.network/token/0xe3b1a545130163ff977e06bcbae9bc55ec7ddaf6) |
 
 ------
 
@@ -73,4 +73,4 @@ Nal Mainnet is a work in progress. Constant, iterative improvement of the securi
 
 #### Bottom Line
 
-The security model of any blockchain system is only as strong as its lowest common denominator. At the moment, **it's important to understand that the security of Nal Mainnet is dependent on a [multisig(opens in a new tab)](https://etherscan.io/address/0x3Da41e13c9a01a20a91B1d9603357d0d89BEBfAe)** managed jointly by the Nal Security Council.
+The security model of any blockchain system is only as strong as its lowest common denominator. At the moment, **it's important to understand that the security of Nal Mainnet is dependent on a [multisig](https://etherscan.io/address/0x3Da41e13c9a01a20a91B1d9603357d0d89BEBfAe)** managed by the Nal Security Council.
