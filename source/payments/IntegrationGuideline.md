@@ -12,7 +12,7 @@ Refer to [payment API documentation](./ApiDocumentation.md).
 
 ## Step 3: Test the interface
 
-Create an order in the test environment and test the related functionalities. Once it works fine, replace the testing environment address with the production environment address. See more in here.
+Create an order and test the related functionalities.
 
 ## Step 4 :Transaction handling
 
