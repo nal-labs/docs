@@ -30,10 +30,20 @@ Nal documentation
    :maxdepth: 2
    :caption: Payments
 
-   payments/Overview.md
+   payments/IntegrationGuideline.md
+   payments/ApiDocumentation.md
+
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Protocols
+
+..    protocols/Overview.md
 
 .. toctree::
    :maxdepth: 2
-   :caption: Protocols
+   :caption: Terms and Policies
 
-   protocols/Overview.md
+   termsAndPolicies/TermsOfServices.md
+   termsAndPolicies/PrivacyPolicy.md
+
+

@@ -1,6 +1,6 @@
 # Build on Nal
 
-## Network Infomation
+## Network Information
 
 ### Nal Mainnet
 
@@ -26,7 +26,7 @@
 
 ------
 
-## Nal Conracts
+## Nal Contracts
 
 ### L1 Contract Addresses
 
