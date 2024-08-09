@@ -19,12 +19,7 @@ A testnet explorer for [Nal Sepolia](https://testnet-scan.nal.network/) is also
 
 ### Nalbridge
 
-Nal bridge enables you to bridge ETH and other supported assets from Ethereum mainnet (L1) directly to Nal.
-
-#### Supported Networks
-
-- [Nal mainnet](https://bridge.nal.network/)
-- [Nal testnet(Sepolia)](https://bridge.nal.network/)
+[Nal Bridge](https://bridge.nal.network/) enables you to bridge ETH and other supported assets from Ethereum mainnet or Sepolia testnet (L1) directly to Nal or Nal testnet (L2) .
 
 
 ------
