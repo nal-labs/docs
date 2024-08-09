@@ -51,17 +51,17 @@ Various ERC-20 tokens originally deployed to Ethereum also have corresponding "b
 
 | Name | Symbol | L1 Token | L2 Token |
 | --- | --- | --- | --- |
-| Ether | ETH | [0x0000000000000000000000000000000000000000](https://etherscan.io//address/0x0000000000000000000000000000000000000000) | [0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000](https://scan.nal.network/address/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000) |
-| Tether USDT | USDT | [0xdAC17F958D2ee523a2206206994597C13D831ec7](https://etherscan.io//address/0xdAC17F958D2ee523a2206206994597C13D831ec7) | [0xf10b577addd414ca97731c3ab772cd212813b14d](https://scan.nal.network/address/0xf10b577addd414ca97731c3ab772cd212813b14d) |
-| USDC | USDC | [0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48](https://etherscan.io//address/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48) | [0xc58d7f2f6b3cc51f9ed1c7a952c79104e4f81be7](https://scan.nal.network/address/0xc58d7f2f6b3cc51f9ed1c7a952c79104e4f81be7) |
+| Ether | ETH | [0x0000000000000000000000000000000000000000](https://etherscan.io/address/0x0000000000000000000000000000000000000000) | [0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000](https://scan.nal.network/address/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000) |
+| Tether USDT | USDT | [0xdAC17F958D2ee523a2206206994597C13D831ec7](https://etherscan.io/token/0xdAC17F958D2ee523a2206206994597C13D831ec7) | [0xf10b577addd414ca97731c3ab772cd212813b14d](https://scan.nal.network/token/0xf10b577addd414ca97731c3ab772cd212813b14d) |
+| USDC | USDC | [0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48](https://etherscan.io/token/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48) | [0xc58d7f2f6b3cc51f9ed1c7a952c79104e4f81be7](https://scan.nal.network/address/0xc58d7f2f6b3cc51f9ed1c7a952c79104e4f81be7) |
 
 ### Nal testnet(Sepolia)
 
 | Name | Symbol | L1 Token | L2 Token |
 | --- | --- | --- | --- |
-| Ether | ETH | [0x0000000000000000000000000000000000000000](https://sepolia.etherscan.io//address/0x0000000000000000000000000000000000000000) | [0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000](https://testnet-scan.nal.network/address/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000) |
-| Tether USDT | USDT | [0x84E7a252AD39Cc9BFcDcB16208c3e912a313be97](https://sepolia.etherscan.io//address/0x84E7a252AD39Cc9BFcDcB16208c3e912a313be97) | [0xe4f926348d533d2b20857bd4d96ba92a4ceb9c15](https://testnet-scan.nal.network/address/0xe4f926348d533d2b20857bd4d96ba92a4ceb9c15) |
-| USDC | USDC | [0x3b423b8f6d28601bef9352f4c1cc9c1fa72e6450](https://sepolia.etherscan.io//address/0x3b423b8f6d28601bef9352f4c1cc9c1fa72e6450) | [0xe3b1a545130163ff977e06bcbae9bc55ec7ddaf6](https://testnet-scan.nal.network/address/0xe3b1a545130163ff977e06bcbae9bc55ec7ddaf6) |
+| Ether | ETH | [0x0000000000000000000000000000000000000000](https://sepolia.etherscan.io/address/0x0000000000000000000000000000000000000000) | [0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000](https://testnet-scan.nal.network/address/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000) |
+| Tether USDT | USDT | [0x84E7a252AD39Cc9BFcDcB16208c3e912a313be97](https://sepolia.etherscan.io/token/0x84E7a252AD39Cc9BFcDcB16208c3e912a313be97) | [0xe4f926348d533d2b20857bd4d96ba92a4ceb9c15](https://testnet-scan.nal.network/token/0xe4f926348d533d2b20857bd4d96ba92a4ceb9c15) |
+| USDC | USDC | [0x3b423b8f6d28601bef9352f4c1cc9c1fa72e6450](https://sepolia.etherscan.io/token/0x3b423b8f6d28601bef9352f4c1cc9c1fa72e6450) | [0xe3b1a545130163ff977e06bcbae9bc55ec7ddaf6](https://testnet-scan.nal.network/token/0xe3b1a545130163ff977e06bcbae9bc55ec7ddaf6) |
 
 ------
 
