@@ -40,7 +40,7 @@ Nal documentation
 ..    protocols/Overview.md
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: protocol
 
    protocol/NFT.md
