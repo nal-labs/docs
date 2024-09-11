@@ -40,6 +40,12 @@ Nal documentation
 ..    protocols/Overview.md
 
 .. toctree::
+   :maxdepth: 2
+   :caption: protocol
+
+   protocol/NFT.md
+
+.. toctree::
    :maxdepth: 1
    :caption: Terms and Policies
 
