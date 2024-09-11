@@ -133,9 +133,9 @@
 
 | Admin Role | Address | Type of Key |
 | --- | --- | --- |
-| Batch Sender | 0xf0b76996B8B48e2929A485382fF1695FEe2822C5 | EOA managed by Nal Labs |
+| Batch Sender | 0x18Df96b5f89bd1452554382d88017c424704Ae04 | EOA managed by Nal Labs |
 | Batch Inbox | 0xff00000000000000000000000000000328527624 | EOA (with no known private key) |
-| Output Proposer | 0xC020CF3DbB6d41BF3505002199b2182Bcd67f5e8 | EOA managed by Nal Labs |
+| Output Proposer | 0x0EE54bC96Db9924Ad10A3B96B92d0b431817349f | EOA managed by Nal Labs |
 | Proxy Admin Owner (L1) | 0x9b04B8574fA7B600d32ECE203BAa0e6eA608710F | Nested Gnosis Safe (signers below) |
 | L1 Nested Safe Signer | 0x692ACbDA8Ba0fE3cE945975a9A3215c02bc2aBAb | Gnosis Safe |
 | Challenger | 0x9178B6f3FcedC6E3AF306Bf60583B4Ae05d9D7D6 | Gnosis Safe |
