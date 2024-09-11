@@ -27,7 +27,7 @@ Nal documentation
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Payments
 
    payments/IntegrationGuideline.md
@@ -46,7 +46,7 @@ Nal documentation
    protocol/NFT.md
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Terms and Policies
 
    termsAndPolicies/TermsOfServices.md
