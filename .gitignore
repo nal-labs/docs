@@ -7,3 +7,5 @@ _build
 .DS_Store
 .vscode/
 *.bak
+logs/
+nal_docs.sh
