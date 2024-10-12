@@ -118,29 +118,29 @@
 
 #### Nal Mainnet
 
-| Admin Role | Address | Type of Key |
-| --- | --- | --- |
-| Batch Sender | 0xB1b676357de100c5bd846299CF6C85436803e839 | EOA managed by Nal Labs |
-| Batch Inbox | 0xff00000000000000000000000000000000328527 | EOA (with no known private key) |
-| Output Proposer | 0x33197820Bf657b33A0BEb86384fD4a0d2c87F538 | EOA managed by Nal Labs |
-| Proxy Admin Owner (L1) | 0x3Da41e13c9a01a20a91B1d9603357d0d89BEBfAe | Nested Gnosis Safe (signers below) |
-| L1 Nested Safe Signer | 0xc3688FdF4f4107626467c1d8331bE03a3e1C900B | Gnosis Safe |
-| Challenger | 0x5869f4E5624F024C7e6E4Be5297B807DeaC7607F | Gnosis Safe |
-| System config owner | 0xc3688FdF4f4107626467c1d8331bE03a3e1C900B | Gnosis Safe |
-| Guardian | 0x23Df0bE57D40Fd5fd950E6b267B92e5F60eBa496 | Gnosis Safe |
+| Admin Role | Address |
+| --- | --- |
+| Batch Sender | 0xB1b676357de100c5bd846299CF6C85436803e839 |
+| Batch Inbox | 0xff00000000000000000000000000000000328527 |
+| Output Proposer | 0x33197820Bf657b33A0BEb86384fD4a0d2c87F538 |
+| Proxy Admin Owner (L1) | 0x3Da41e13c9a01a20a91B1d9603357d0d89BEBfAe |
+| L1 Nested Safe Signer | 0xc3688FdF4f4107626467c1d8331bE03a3e1C900B |
+| Challenger | 0x5869f4E5624F024C7e6E4Be5297B807DeaC7607F |
+| System config owner | 0xc3688FdF4f4107626467c1d8331bE03a3e1C900B |
+| Guardian | 0x23Df0bE57D40Fd5fd950E6b267B92e5F60eBa496 |
 
 #### Nal Testnet (Sepolia)
 
-| Admin Role | Address | Type of Key |
-| --- | --- | --- |
-| Batch Sender | 0x18Df96b5f89bd1452554382d88017c424704Ae04 | EOA managed by Nal Labs |
-| Batch Inbox | 0xff00000000000000000000000000000328527624 | EOA (with no known private key) |
-| Output Proposer | 0x0EE54bC96Db9924Ad10A3B96B92d0b431817349f | EOA managed by Nal Labs |
-| Proxy Admin Owner (L1) | 0x9b04B8574fA7B600d32ECE203BAa0e6eA608710F | Nested Gnosis Safe (signers below) |
-| L1 Nested Safe Signer | 0x692ACbDA8Ba0fE3cE945975a9A3215c02bc2aBAb | Gnosis Safe |
-| Challenger | 0x9178B6f3FcedC6E3AF306Bf60583B4Ae05d9D7D6 | Gnosis Safe |
-| System config owner | 0x692ACbDA8Ba0fE3cE945975a9A3215c02bc2aBAb | Gnosis Safe |
-| Guardian | 0x7a67A308F2f0a8c3041c9Eb78520bfdFb776DB9A | Gnosis Safe |
+| Admin Role | Address |
+| --- | --- |
+| Batch Sender | 0x18Df96b5f89bd1452554382d88017c424704Ae04 |
+| Batch Inbox | 0xff00000000000000000000000000000328527624 |
+| Output Proposer | 0x0EE54bC96Db9924Ad10A3B96B92d0b431817349f |
+| Proxy Admin Owner (L1) | 0x9b04B8574fA7B600d32ECE203BAa0e6eA608710F |
+| L1 Nested Safe Signer | 0x692ACbDA8Ba0fE3cE945975a9A3215c02bc2aBAb |
+| Challenger | 0x9178B6f3FcedC6E3AF306Bf60583B4Ae05d9D7D6 |
+| System config owner | 0x692ACbDA8Ba0fE3cE945975a9A3215c02bc2aBAb |
+| Guardian | 0x7a67A308F2f0a8c3041c9Eb78520bfdFb776DB9A |
 
 ------
 
